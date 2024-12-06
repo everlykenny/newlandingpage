@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+}
+.mainBox{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+.itemBox{
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
+.listItems{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+    margin-left: 600px;
+}
+.items{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    margin-left: 60px;
+    color: black;
+}
